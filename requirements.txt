@@ -1,0 +1,6 @@
+pandas
+tqdm
+streamlit
+watchdog
+python-dotenv
+lightweight_charts
